@@ -1,0 +1,62 @@
+.fluid-container {
+
+    height: 100vh;
+}
+
+p {
+    padding: 20px;
+    font-size: 17px;
+}
+
+.col-5 {
+    text-align: center;
+    height: 100%;
+    width: 100%;
+    
+}
+
+.col-7 img {
+    width: 100%;
+}
+
+.rounded-pill {
+    width: 65%; 
+    height: 60px;
+}
+
+.btn {
+    width: 30%;
+    font-size: 25px;
+}
+
+.sign-up {
+    margin-bottom: 70px;
+    font-size: 4rem;
+}
+
+#circle {
+    margin: 0;
+    border-radius: 100%;
+    border: solid 1px black;
+    padding: 20%;
+    font-size: 40px;
+}
+
+
+#input_container {
+    position:relative;
+    margin:5vh 0;
+  }
+
+  #input {
+    margin:0;
+  }
+
+  #input_img {
+    position:absolute;
+    bottom:2px;
+    left: 8vw;
+    width:35px;
+    height:35px;
+  }
+  
